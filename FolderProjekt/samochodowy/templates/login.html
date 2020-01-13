@@ -1,0 +1,9 @@
+{% extends "base.html" %} {% block content %}
+<div id="logowanie">
+    <form id="form1" method="POST">
+        {{form.hidden_tag()}} {{form.email.label(id="label1")}}{{form.email}}
+        <br> {{form.password.label(id="label1")}}{{form.password}}
+        <br> {{form.submit(class="btn btn-primary")}}
+    </form>
+</div>
+{% endblock %}

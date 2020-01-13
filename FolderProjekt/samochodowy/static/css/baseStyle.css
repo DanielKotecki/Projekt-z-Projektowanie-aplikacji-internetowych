@@ -1,0 +1,110 @@
+    body {
+        background-image: url("../footer_lodyas.png");
+    }
+    
+    #navigation {
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 1024px;
+        height: 30px;
+    }
+    
+    .nav {
+        padding-left: 240px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .nav-link {
+        padding-left: 30px;
+        color: white
+    }
+    
+    .container {
+        margin-top: 45px;
+    }
+    
+    .jumbotron {
+        background-color: grey;
+    }
+    
+    #index {
+        padding-left: 190px;
+        color: white;
+    }
+    
+    #info {
+        color: white;
+    }
+    
+    #logowanie {
+        width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #label1 {
+        color: white;
+        font-weight: bold;
+    }
+    
+    .form-group {
+        color: white;
+        font-weight: bold;
+    }
+    
+    .form-control {
+        width: 300px;
+        margin-left: 400px;
+    }
+    
+    #daneAktualizowane {
+        margin-right: auto;
+        margin-left: auto;
+    }
+    
+    #dA {
+        text-align: center;
+    }
+    
+    .form-control-file {
+        margin-left: 440px;
+    }
+    
+    .pasek {
+        color: white;
+    }
+    
+    .p1 {
+        cursor: pointer;
+    }
+    
+    .tworzenie {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20%;
+    }
+    
+    .creatLabel {
+        color: white;
+        font-weight: bold;
+        padding-left: 48%;
+    }
+    
+    .cL1 {
+        margin-top: 10px;
+        padding-left: 48%;
+    }
+    
+    .card {
+        margin-top: 10px;
+    }
+    
+    .t1 {
+        text-align: center;
+    }
+    
+    .nn {
+        margin-top: 6px;
+    }
